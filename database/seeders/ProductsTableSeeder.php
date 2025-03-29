@@ -15,7 +15,7 @@ class ProductsTableSeeder extends Seeder
                 'description' => 'High-performance laptop with 16GB RAM and 512GB SSD.',
                 'price' => 799.99,
                 'stock' => 10,
-                'image' => 'laptop.jpg',  // Ensure this file exists in storage/public/images
+                'image' => 'laptop.jpg',
                 'created_at' => now(),
                 'updated_at' => now(),
             ],
